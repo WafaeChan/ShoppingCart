@@ -1,0 +1,134 @@
+.aboutmine {
+    margin-left: 900px;
+}
+
+.navbarmine {
+    padding-left: 100px;
+    background-color: #353A40;
+}
+
+.shopcartmine {
+    font-size: 32px;
+    margin-right: 50px;
+}
+
+.nav-link {
+    font-size: 24px;
+    margin-right: 50px;
+}
+
+.dropdownmine {
+    margin-left: 900px;
+}
+
+body {
+    background-color: rgb(180, 179, 179);
+}
+
+.prevmine {
+    background-color: rgba(39, 39, 39, 0.322);
+    width: 100px;
+    height: 100px;
+    margin-top: 400px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.nextmine {
+    background-color: rgba(39, 39, 39, 0.322);
+    width: 100px;
+    height: 100px;
+    margin-top: 400px;
+    border-radius: 20px;
+    margin-right: 30px;
+}
+
+.carouselmine {
+    height: 600px;
+}
+
+.mainrow {
+    background-color: #353A40;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    height: 50px;
+    padding-left: 30px;
+    padding-top: 10px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.shopcarticon {
+    margin-right: 20px;
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.minus:hover{
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.plus:hover{
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.minus {
+    margin-left: 10px;
+}
+
+.plus {
+    margin-right: 10px;
+}
+
+.cross {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.heart {
+    margin-left: 150px;
+}
+
+.itemname {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 100px;
+}
+
+.itemprice {
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 50px
+}
+
+.itemquantity {
+    padding-top: 50px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+footer {
+    margin-top: 400px;
+}
+
+.cross:hover {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.heart:hover {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+}
